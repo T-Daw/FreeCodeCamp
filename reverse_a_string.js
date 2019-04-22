@@ -18,3 +18,6 @@ function reverseString(str) {
 
   }
 console.log(reverseString("hello"));
+
+
+//Not sure why this does not work on freecodecamp's website. solution works well for me. 
