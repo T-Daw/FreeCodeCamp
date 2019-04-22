@@ -11,4 +11,5 @@ function factorialize(num) {
   //why is this not working on freecodecamp?
   //it works fine for me
   //remember: Only integers greater than or equal to zero will be supplied to the function.
+// link to problem:  https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number
 
